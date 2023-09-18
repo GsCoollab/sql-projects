@@ -1,3 +1,5 @@
+-- Data source: World Health Organization COVID-19 data updated by 30 Aug 2023
+
 SELECT * FROM `electric-goods-397906.covid19.CovidDeaths`
 order by 3, 4;
 
